@@ -10,7 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=nalyx1&theme=gotham&hide_border=true&area=true)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/joaorodriguez0106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp</a>
+<a href="https://www.linkedin.com/in/joaorodriguez0106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">&nbsp</a>
 <a href="mailto:joaorodriguez0106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">&nbsp</a>
 </div>
 

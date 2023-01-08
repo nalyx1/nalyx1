@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalyx1&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=nalyx1&theme=gotham&hide_border=true&area=true)
+![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=nalyx1&theme=gotham&hide_border=true&area=true)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaorodriguez0106/" target="_blank">

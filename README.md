@@ -1,76 +1,43 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+# João Rodrigues
 
-<h1 align="center">Hi 👋, I'm João Rodrigues</h1>
-<h3 align="center">
-Full Stack Developer • AI & Computer Vision (YOLO) • Cloud & DevOps • AWS Certified
-</h3>
+**Computer Vision Developer at ALTAVE**
 
-<p align="center">
-Building scalable systems, cloud-native architectures and real-world AI products.
-</p>
+São José dos Campos, Brazil
 
----
+I work on computer vision and applied AI, with a background in full stack development,
+cloud infrastructure and systems integration. My experience connects image processing
+and machine learning with the software and infrastructure needed to operate real products.
 
-## 🚀 About Me
+Currently at **ALTAVE**, where I have worked as a Computer Vision Developer since April 2026.
 
-- 💻 Full Stack Developer with strong backend focus  
-- ☁️ Solid experience with **AWS**, cloud infrastructure and DevOps practices  
-- 🤖 Working with **AI & Computer Vision**, including **YOLO training and optimization**  
-- 📡 Experience with **real-time systems**, WebSockets and edge computing (Jetson)  
-- 🏗️ Building **production-grade products**, from architecture to deployment  
+## Engineering experience
 
----
+- Camera-based traffic analysis using Python, Node.js and YOLO models.
+- Edge computing with NVIDIA Jetson and real-time streaming over WebSockets.
+- Backend development, service integration and deployment on AWS.
+- Integration with legacy systems using C#, FTP and XML.
+- Process automation, containers, testing, documentation and observability.
 
-## 🧠 Current Focus
+## Technologies
 
-- Scalable backend systems (Node.js, Python, C#)
-- Cloud architectures on AWS
-- Computer Vision pipelines (YOLO, OpenCV, real-time inference)
-- Edge computing & streaming systems
-- Automation and system integration
+| Area | Technologies |
+| --- | --- |
+| Computer vision & edge | Python, YOLO, OpenCV, NVIDIA Jetson |
+| Software & integration | TypeScript, JavaScript, Node.js, C#, NestJS, Express, WebSockets |
+| Data | PostgreSQL, MySQL, MongoDB |
+| Infrastructure | AWS, Docker, Linux, Git |
 
----
+## Professional background
 
-## 🧰 Tech Stack
+- **ALTAVE** — Computer Vision Developer · Apr 2026–present
+- **Tecnoly Tecnologia em Mobilidade Urbana** — Full Stack Developer · Apr 2025–Apr 2026
+- **HMZ Supply Chain Solutions** — Full Stack Developer · Mar 2024–Aug 2025
+- **Abaré** — Full Stack Developer · Nov 2022–Feb 2024
+- **IFI — Instituto de Fomento e Coordenação Industrial** — IT Technician · Sep 2019–Aug 2022
 
-### Languages & Runtime
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp)
+Degree in Systems Analysis and Development from **UNIP** (2020–2021).
 
-### Backend & APIs
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)
-![WebSocket](https://img.shields.io/badge/WebSocket-0D1117?style=for-the-badge)
+## Contact
 
-### AI & Computer Vision
-![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-
----
-
-## 🔗 Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaorodriguez0106/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:joojrodrigues.dev@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail"/>
-  </a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+[LinkedIn](https://www.linkedin.com/in/joaorodriguez0106/) ·
+[Email](mailto:joojrodrigues.dev@outlook.com)

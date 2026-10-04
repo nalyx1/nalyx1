@@ -6,7 +6,8 @@ My background is in full stack development and cloud infrastructure.
 
 ## What I work on
 
-- Computer vision with YOLO and OpenCV.
+- Computer vision systems, from model development to deployment and ongoing operation.
+- MLOps for model deployment, monitoring and lifecycle management.
 - Real-time video processing and edge computing with NVIDIA Jetson.
 - Backend services, integrations and automation.
 

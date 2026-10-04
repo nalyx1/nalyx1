@@ -8,12 +8,8 @@ My background is in full stack development and cloud infrastructure.
 
 - Computer vision systems, from model development to deployment and ongoing operation.
 - MLOps for model deployment, monitoring and lifecycle management.
-- Real-time video processing and edge computing with NVIDIA Jetson.
+- Real-time video processing and edge computing.
 - Backend services, integrations and automation.
-
-## Tools
-
-Python · TypeScript · Node.js · C# · OpenCV · YOLO · AWS · Docker · Linux
 
 ## Links
 
